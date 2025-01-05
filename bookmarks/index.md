@@ -46,6 +46,7 @@
 - [lodash/lodash](https://github.com/lodash/lodash) A modern JavaScript utility library delivering modularity, performance, & extras.
 - [FormidableLabs/react-fast-compare](https://github.com/FormidableLabs/react-fast-compare) fastest deep equal comparison for React
 - [yjs/yjs](https://github.com/yjs/yjs) Shared data types for building collaborative software
+- [privatenumber/tsx](https://github.com/privatenumber/tsx)TypeScript Execute (tsx): The easiest way to run TypeScript in Node.js
 
 ## Test
 
